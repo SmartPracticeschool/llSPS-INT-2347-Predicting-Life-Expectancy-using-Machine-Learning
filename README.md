@@ -15,8 +15,11 @@ a country which area should be given importance in order to efficiently improve 
 Here is the data set- [Dataset](https://www.kaggle.com/kumarajarshi/life-expectancy-who)
 
 ### Code
+
 Code is based on Python 3.7 and runs a basic linear regression on scikit learn, to give a RMSE of about 3.77
+
 To run the code locally, simply download the .ipynb file and run the notebook on a Jupyter Notebook, preferably by downloading Anaconda Package
 
 ### Deployment
+
 The deployment consists of a NODE RED flow in flows.json and links to a UI which can be found at this [link](https://node-red-xskfb.eu-gb.mybluemix.net/ui/#!/0?socketid=OrQbhOPGTo_993iMAAAA)
